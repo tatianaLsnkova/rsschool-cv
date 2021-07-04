@@ -34,7 +34,7 @@ style="width:100%; border-radius:5px;">
 </body>
 ```
 ### Work experience
--
+\-
 ### Education
 self-study
 ### English 
